@@ -4,8 +4,6 @@
 The implementations are for learning purpose. They may be less efficient than the implementation in the standard library.
 
 
-# "Копилка ссылок".
-
 ### Материалы курса:
 
 ## Книги:
@@ -24,8 +22,8 @@ The implementations are for learning purpose. They may be less efficient than th
 
 
 
-##Мои ссылки 
-### аналитика, ML, Python
+## Мои ссылки 
+### Аналитика, ML, Python
 1. [Bash для анализа данных] (http://www.datamazing.co.uk/2014/01/25/working-with-data-on-the-command-line#.V8lbomOson2)
 2. [Cеминары по ML, ВМК] (https://github.com/esokolov/ml-course-msu)
 4. [100 репозиториев по машинному обучению](http://meta-guide.com/software-meta-guide/100-best-github-machine-learning)
