@@ -49,7 +49,7 @@ The implementations are for learning purpose. They may be less efficient than th
 8. [Алгоритмы и структуры данных](https://www.youtube.com/playlist?list=PLlb7e2G7aSpQutUr7qYIunvm04cqdr5mx) – записи онлайн-курса Александра Куликова из Computer Science Center
 9. [Сложность алгоритмов] (http://bigocheatsheet.com)
 
-###Визуализация
+### Визуализация
 1. [Bokeh] (http://nbviewer.jupyter.org/github/bokeh/bokeh-notebooks/blob/master/index.ipynb)
 
 ### Всякое
